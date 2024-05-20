@@ -1,0 +1,1 @@
+gcc -std=c90 -Wall -Wpedantic 0001079183.c -o 0001079183
